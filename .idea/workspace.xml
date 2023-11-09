@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f0c1f93-3c2f-46d8-ac0a-4bf9a561b68d" name="Changes" comment="sem2 hw2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem3/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem3/BigO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem3/DeepestNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem3/NoBanknotesToWithdrawException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem3/RandomSet.java" afterDir="false" />
+    <list default="true" id="9f0c1f93-3c2f-46d8-ac0a-4bf9a561b68d" name="Changes" comment="sem3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw3/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw3/models/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.hw.hw3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw.hw2.Main" />
       <module name="JAVA_CORE_GB" />
@@ -72,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw.hw3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw3.Main" />
+      <module name="JAVA_CORE_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.hw3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw.hw3.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -94,11 +105,19 @@
       <option name="project" value="LOCAL" />
       <updated>1698671584846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sem3">
+      <created>1699523335596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699523335596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sem2 hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem2 hw2" />
+    <MESSAGE value="sem3" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem3" />
   </component>
 </project>
