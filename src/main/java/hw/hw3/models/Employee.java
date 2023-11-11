@@ -19,6 +19,12 @@ public class Employee {
     private int salary;
     private LocalDate hireDate;
 
+    public Employee(String name, int age, int salary) {
+        this.name = name;
+        this.age = age;
+        this.salary = salary;
+    }
+
     public static int compareHireDates(Employee employee1, Employee employee2) {
         LocalDate localDate1 = employee1.getHireDate();
         LocalDate localDate2 = employee2.getHireDate();

@@ -4,24 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f0c1f93-3c2f-46d8-ac0a-4bf9a561b68d" name="Changes" comment="hw3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw1/controllers/NoteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw1/models/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/AuthProject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/AuthProject/exceptions/WrongLoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/AuthProject/exceptions/WrongPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/AuthProject/models/Authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/controllers/MarketRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/exceptions/AmountException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/exceptions/CustomerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/exceptions/ProductException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/models/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw4/OnlineMarketProject/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem4/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem/sem4/Vectors.java" afterDir="false" />
+    <list default="true" id="9f0c1f93-3c2f-46d8-ac0a-4bf9a561b68d" name="Changes" comment="hw4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw5/controllers/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw5/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw5/models/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hw/hw5/presenters/ConsoleView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -70,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.hw.hw4.OnlineMarketProject.Main">
+  <component name="RunManager" selected="Application.hw.hw5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hw.hw2.Main" />
       <module name="JAVA_CORE_GB" />
@@ -110,8 +103,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw.hw5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw.hw5.Main" />
+      <module name="JAVA_CORE_GB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hw.hw5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw.hw5.Main" />
         <item itemvalue="Application.hw.hw4.OnlineMarketProject.Main" />
         <item itemvalue="Application.hw.hw3.Main" />
         <item itemvalue="Application.Main" />
@@ -148,13 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699528419971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw4">
+      <created>1699612112764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699612112764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sem2 hw2" />
     <MESSAGE value="sem3" />
     <MESSAGE value="hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw3" />
+    <MESSAGE value="hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4" />
   </component>
 </project>
